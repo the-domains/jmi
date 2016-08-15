@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JMI]]></title>
+        <description><![CDATA[JMI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 17:17:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 heralds beginning of the "megatall" skyscraper era]]></title>
+            <description><![CDATA[<article><h1>2016 heralds beginning of the "megatall" skyscraper era</h1><p>The number of skyscrapers over 600 metres high - known as "megatalls" - is set to more than double in the next few years, say experts. Skyscraper authority the Council on Tall Buildings and Urban Habitat (CTBUH) has revealed that the number of 600-metre-plus buildings in the world is set to rise from three to seven in the next five years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6162d7ae66c7c63eb63d77e497ca469c/noop.jpg?input=http%3A%2F%2Fstatic.dezeen.com%2Fuploads%2F2016%2F01%2FThe-Kingdom-Tower_Adrian-Smith_Gordon-Gill-Architecture-_dezeen_social.jpg"></article>]]></description>
+            <link>http://www.dezeen.com/2016/01/22/2016-megatall-skyscraper-era-council-tall-buildings-urban-habitat-ctbuh/</link>
+            <guid isPermaLink="false">dcd30a42-995f-4fca-b2ed-7d4c4fab2255</guid>
+            <pubDate>Mon, 15 Aug 2016 17:17:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
