@@ -1,0 +1,14 @@
+layout_spectrum: 0.5826600266154855
+typography_spectrum: 0.5677271645981818
+color:
+  brandStrength: 0.12496204767376184
+  lightness: 0.08084731316193938
+  saturation: 0.5987802636809647
+  rhythmicContrast: 0.8478852671105415
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: JMI
